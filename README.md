@@ -5,6 +5,12 @@ markdown for zenn
 
 - https://zenn.dev/zenn/articles/zenn-cli-guide
 
+## create new article
+
+```
+$ npx zenn new:article
+```
+
 ## preview
 
 ```
